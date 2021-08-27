@@ -1,4 +1,4 @@
-
+file: characters.txt
 Lec 15 - configuring your git name and email
 
 Significance of setting up your name

@@ -1,3 +1,4 @@
+file: chapter1.txt
 chapter 1
 
 Lec 15 - configuring your git name and email
