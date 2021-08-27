@@ -106,3 +106,6 @@ Git config --global user.name "Tom Hull"
 
 To configure the email that Git will associate with your work, run the following command:
 Git config --global user.email "test@t.com"
+
+
+New character added to the file
